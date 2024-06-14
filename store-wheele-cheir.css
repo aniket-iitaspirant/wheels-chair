@@ -1,0 +1,1471 @@
+/* this is my first continer */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+.div1{
+    height: 150px;
+    width: 100%;
+    background-color: #d7d7d733;
+    top: 0;
+    position: fixed;
+}
+
+.div2{
+    height: 150px;
+    width: 160px;
+    float: left;
+}
+
+.div3{
+    height: 114px;
+    width: 113px;
+    border-radius: 67px;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-image: url(izzy-img.webp);
+    background-size: contain;
+}
+
+.div4{
+    height: 43px;
+    width: 143px;
+    margin-left: 185px;
+    margin-top: 60px;
+}
+
+.home{
+    font-size: 20px;
+    color: rgb(161 146 64);
+    padding-left: 22px;
+    padding-top: 7px;
+    text-decoration: none;
+}
+
+.home:hover{
+    cursor: pointer;
+}
+
+
+.div5{
+    height: 43px;
+    width: 143px;
+    margin-left: 269px;
+    margin-top: -44px;
+}
+
+.store{
+    font-size: 20px;
+    color: black;
+    padding-left: 22px;
+    padding-top: 2px;
+    text-decoration: none;
+}
+
+.store:hover{
+    cursor: pointer;
+    color: rgb(161 146 64);
+}
+
+.div6{
+    height: 43px;
+    width: 143px;
+    margin-left: 364px;
+    margin-top: -42px;
+}
+
+.DISNEY{
+    font-size: 20px;
+    color: black;
+    padding-left: 22px;
+    padding-top: 2px;
+    text-decoration: none;
+}
+
+.DISNY:hover{
+    cursor: pointer;
+    color: rgb(161 146 64);
+}
+
+.div7{
+    height: 43px;
+    width: 198px;
+    margin-left: 460px;
+    margin-top: -63px;
+}
+
+.OURSTORY{
+    font-size: 20px;
+    color: black;
+    padding-left: 22px;
+    padding-top: 2px;
+}
+
+
+.OURSTORY:hover{
+    cursor: pointer;
+    color: rgb(161 146 64);
+}
+
+.div8{
+    height: 43px;
+    width: 198px;
+    margin-left: 20px;
+    margin-top: 22px;
+}
+
+.COMMUNITY{
+    font-size: 20px;
+    color: black;
+    margin-left: 605px;
+    margin-top: -63px;
+}
+
+.COMMUNITY:hover{
+    cursor: pointer;
+    color: rgb(161 146 64);
+}
+
+
+.div9{
+    height: 43px;
+    width: 189px;
+    margin-left: 774px;
+    margin-top: -51px;
+}
+
+.PUBLIC{
+    font-size: 20px;
+    color: black;
+    margin-left: 3px;
+    margin-top: 10px;
+}
+
+.PUBLIC:hover{
+    cursor: pointer;
+    color: rgb(161 146 64);
+}
+
+.div10{
+    height: 43px;
+    width: 189px;
+    margin-left: 974px;
+    margin-top: -51px;
+}
+
+.GIFT{
+    font-size: 20px;
+    color: black;
+    margin-left: 3px;
+    margin-top: 10px;
+}
+
+.GIFT:hover{
+    color: rgb(161 146 64);
+    cursor: pointer;
+}
+
+.div11{
+    height: 43px;
+    width: 189px;
+    margin-left: 1111px;
+    margin-top: -60px;
+}
+
+.HELP{
+    font-size: 20px;
+    color: black;
+    margin-left: 3px;
+    margin-top: 20px;
+}
+
+.HELP:hover{
+    color: rgb(161 146 64);
+    cursor: pointer;
+}
+
+.div12{
+    height: 45px;
+    width: 82px;
+    background-color: white;
+    border: 2px solid black;
+    margin-left: 1305px;
+    margin-top: -59px;
+}
+
+.home-lite{
+    height: 45px;
+    width: 82px;
+    border: 2px solid black;
+}
+
+.div13{
+    background-image: url(sopping-bag.png);
+    height: 53px;
+    width: 45px;
+    margin-left: 1413px;
+    margin-top: -56px;
+}
+
+.div14{
+    height: 146px;
+    width: 100%;
+    margin-top: 150px;
+}
+
+.the{
+    font-size: 58px;
+    text-align: center;
+    font-family: monospace;
+    color: #604545e0;
+}
+
+.Masterpieces{
+    font-size: 14px;
+    text-align: center;
+    font-family: system-ui;
+    margin-top: -24px;
+}
+
+.div15{
+    height: 404px;
+    width: 100%;
+    margin-top: 56px;
+}
+
+.div16{
+    height: 404px;
+    width: 330px;
+    margin-left: 153px;
+}
+
+.div17{
+    height: 285px;
+    width: 286px;
+    margin-left: 22px;
+    border-radius: 360px;
+    background-image: url(tiger.webp);
+    background-size: contain;
+    transition: width 1s, height 2s;
+}
+
+.div17:hover{
+    height: 295px;
+    width: 295px;
+    cursor: pointer;
+}
+
+.div21{
+    height: 56px;
+    width: 330px;
+    opacity: 0.8;
+    background-color: grey;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -22px;
+}
+
+.Quick{
+    color: #ffffffff;
+    text-align: center;
+}
+
+
+
+.div17:hover .div21{
+    visibility: visible;
+}
+
+.div18{
+    height: 297px;
+    width: 297px;
+}
+
+.div18{
+    height: 404px;
+    width: 330px;
+    margin-left: 588px;
+    margin-top: -421px;
+}
+
+.Marylou{
+    font-size: 17px;
+    padding-top: 314px;
+    text-align: center;
+}
+
+.div22{
+    height: 20px;
+    width: 20px;
+    margin-top: 19px;
+    margin-left: 105px;
+    background-image: url(euro-sing.png);
+    background-size: cover;
+
+}
+
+.one{
+    font-size: 16px;
+    margin-top: -19px;
+    padding-left: 126px;
+}
+
+.div19{
+    height: 285px;
+    width: 286px;
+    background-color: #ffffffff;
+    border-radius: 380px;
+    margin-left: 20px;
+    background-image: url(wheels1.webp);
+    background-size: contain;
+    transition: width 1s, height 2s;
+}
+
+.div19:hover{
+    height: 295px;
+    width: 295px;
+    cursor: pointer;
+}
+
+.div20{
+    height: 56px;
+    width: 330px;
+    opacity: 0.8;
+    background-color: grey;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -20px;
+}
+
+
+.div18:hover .div20{
+    visibility: visible;
+    cursor: pointer;
+}
+
+.Quick1{
+    color: #ffffffff;
+    text-align: center;
+}
+
+
+.Jess{
+    font-size: 17px;
+    padding-top: 314px;
+    text-align: center; 
+}
+
+.div23{
+    height: 20px;
+    width: 20px;
+    margin-top: 19px;
+    margin-left: 105px;
+    background-image: url(euro-sing.png);
+    background-size: cover;
+}
+
+.one1{
+    font-size: 16px;
+    margin-top: -19px;
+    padding-left: 126px;
+}
+
+.div24{
+    height: 404px;
+    width: 330px;
+    margin-left: 1033px;
+    margin-top: -421px;
+}
+
+.div25{
+    height: 285px;
+    width: 286px;
+    background-color: #ffffffff;
+    border-radius: 380px;
+    margin-left: 20px;
+    background-image: url(wheels2.webp);
+    background-size: contain;
+    transition: width 1s, height 2s;
+}
+
+.div25:hover{
+    height: 295px;
+    width: 295px;
+    cursor: pointer;
+}
+
+.div26{
+    height: 56px;
+    width: 330px;
+    opacity: 0.8;
+    background-color: grey;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -20px;
+}
+
+.div25:hover .div26{
+    visibility: visible;
+    cursor: pointer;
+}
+
+.Quick2{
+    color: #ffffffff;
+    text-align: center;
+}
+
+.Okudart{
+    font-size: 17px;
+    padding-top: 314px;
+    text-align: center;   
+}
+
+.div27{
+    height: 20px;
+    width: 20px;
+    margin-top: 19px;
+    margin-left: 105px;
+    background-image: url(euro-sing.png);
+    background-size: cover;
+}
+
+.one2{
+    font-size: 16px;
+    margin-top: -19px;
+    padding-left: 126px; 
+}
+
+.div28{
+    height: 404px;
+    width: 100%;
+}
+
+.div29{
+    height: 404px;
+    width: 330px;
+    margin-left: 153px;
+}
+
+.div30{
+    height: 285px;
+    width: 286px;
+    margin-left: 22px;
+    border-radius: 360px;
+    background-image: url(wheels3.webp);
+    background-size: contain;
+    transition: width 1s, height 2s;
+}
+
+.div30:hover{
+    height: 295px;
+    width: 295px;
+    cursor: pointer;
+}
+
+.div31{
+    height: 56px;
+    width: 330px;
+    opacity: 0.8;
+    background-color: grey;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -22px;
+}
+
+.div30:hover .div31{
+    visibility: visible;
+}
+
+.Quick3{
+    color: #ffffffff;
+    text-align: center;
+}
+
+.Etta{
+    font-size: 17px;
+    padding-top: 314px;
+    text-align: center;
+}
+
+.div32{
+    height: 20px;
+    width: 20px;
+    margin-top: 19px;
+    margin-left: 105px;
+    background-image: url(euro-sing.png);
+    background-size: cover;
+}
+
+.one3{
+    font-size: 16px;
+    margin-top: -19px;
+    padding-left: 126px;  
+}
+
+.div33{
+    height: 404px;
+    width: 330px;
+    margin-left: 588px;
+    margin-top: -421px;   
+}
+
+.div34{
+    height: 285px;
+    width: 286px;
+    margin-left: 22px;
+    border-radius: 360px;
+    background-image: url(wheels4.webp);
+    background-size: contain;
+    transition: width 1s, height 2s;
+}
+
+.div34:hover{
+    height: 295px;
+    width: 295px;
+    cursor: pointer;
+}
+
+.div35{
+    height: 56px;
+    width: 330px;
+    opacity: 0.8;
+    background-color: grey;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -22px;
+}
+
+.div34:hover .div35{
+    visibility: visible;
+}
+
+.Quick4{
+    color: #ffffffff;
+    text-align: center;
+}
+
+.Rainbow{
+    font-size: 17px;
+    padding-top: 314px;
+    text-align: center;
+}
+
+.div36{
+    height: 20px;
+    width: 20px;
+    margin-top: 19px;
+    margin-left: 105px;
+    background-image: url(euro-sing.png);
+    background-size: cover;
+}
+
+.one4{
+    font-size: 16px;
+    margin-top: -19px;
+    padding-left: 126px;    
+}
+
+.div37{
+    height: 404px;
+    width: 330px;
+    margin-left: 1033px;
+    margin-top: -421px;
+}
+
+.div38{
+    height: 285px;
+    width: 286px;
+    margin-left: 22px;
+    border-radius: 360px;
+    background-image: url(roundcircle.gif);
+    background-size: contain;
+    transition: width 1s, height 2s;
+}
+
+.div38:hover{
+    height: 295px;
+    width: 295px;
+    cursor: pointer;
+}
+
+.div39{
+    height: 56px;
+    width: 330px;
+    opacity: 0.8;
+    background-color: grey;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -22px;
+}
+
+.div38:hover .div39{
+    visibility: visible;
+}
+
+.Quick5{
+    color: #ffffffff;
+    text-align: center;
+}
+
+.Mickey{
+    font-size: 17px;
+    padding-top: 314px;
+    text-align: center;
+}
+
+.div40{
+    height: 20px;
+    width: 20px;
+    margin-top: 19px;
+    margin-left: 105px;
+    background-image: url(euro-sing.png);
+    background-size: cover;
+}
+
+.one5{
+    font-size: 16px;
+    margin-top: -19px;
+    padding-left: 126px; 
+}
+
+.div41{
+    height: 404px;
+    width: 100%;
+}
+
+.div42{
+    height: 404px;
+    width: 330px;
+    margin-left: 153px;
+}
+
+.div43{
+    height: 285px;
+    width: 286px;
+    margin-left: 22px;
+    border-radius: 360px;
+    margin-top: -42px;
+    background-image: url(wheels5.webp);
+    background-size: contain;
+    transition: width 1s, height 2s;
+}
+
+.div43:hover{
+    height: 295px;
+    width: 295px;
+    cursor: pointer;
+}
+
+.div44{
+    height: 56px;
+    width: 330px;
+    opacity: 0.8;
+    background-color: grey;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -22px;
+}
+
+.div43:hover .div44{
+    visibility: visible;
+}
+
+.Quick6{
+    color: #ffffffff;
+    text-align: center;
+}
+
+.Mickey1{
+    font-size: 17px;
+    padding-top: 314px;
+    text-align: center;
+}
+
+.div45{
+    height: 20px;
+    width: 20px;
+    margin-top: 19px;
+    margin-left: 105px;
+    background-image: url(euro-sing.png);
+    background-size: cover;
+}
+
+.one6{
+    font-size: 16px;
+    margin-top: -19px;
+    padding-left: 126px;
+}
+
+.div46{
+    background-color: rgb(31, 123, 235);
+    height: 34px;
+    width: 71px;
+}
+
+.new{
+    font-size: 24px;
+    text-align: center;
+    margin-top: 1px;
+    color: #ffffffff;
+}
+
+.div47{
+    height: 404px;
+    width: 330px;
+    margin-left: 588px;
+    margin-top: -404px;
+}
+
+.div48{
+    background-color: rgb(31, 123, 235);
+    height: 34px;
+    width: 71px;
+}
+
+.new1{
+    font-size: 24px;
+    text-align: center;
+    margin-top: 1px;
+    color: #ffffffff; 
+}
+
+.div49{
+    height: 285px;
+    width: 286px;
+    margin-left: 22px;
+    border-radius: 360px;
+    margin-top: -25px;
+    background-image: url(wheels6.webp);
+    background-size: contain;
+    transition: width 1s, height 2s;
+}
+
+.div49:hover{
+    height: 295px;
+    width: 295px;
+    cursor: pointer;
+}
+
+.div50{
+    height: 56px;
+    width: 330px;
+    opacity: 0.8;
+    background-color: grey;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -22px;
+}
+
+.div49:hover .div50{
+    visibility: visible;
+}
+
+.Quick7{
+    color: #ffffffff;
+    text-align: center;
+}
+
+.Minnie{
+    font-size: 17px;
+    padding-top: 314px;
+    text-align: center;
+}
+
+.div51{
+    height: 20px;
+    width: 20px;
+    margin-top: 19px;
+    margin-left: 105px;
+    background-image: url(euro-sing.png);
+    background-size: cover;
+}
+
+.one7{
+    font-size: 16px;
+    margin-top: -19px;
+    padding-left: 126px;
+}
+
+.div52{
+    height: 404px;
+    width: 330px;
+    margin-left: 1033px;
+    margin-top: -421px;
+}
+
+.div53{
+    height: 285px;
+    width: 286px;
+    margin-left: 22px;
+    border-radius: 360px;
+    margin-top: -25px;
+    background-image: url(wheels7.webp);
+    background-size: contain;
+    transition: width 1s, height 2s;
+}
+
+.div53:hover{
+    height: 295px;
+    width: 295px;
+    cursor: pointer;
+}
+
+
+.div54{
+    height: 56px;
+    width: 330px;
+    opacity: 0.8;
+    background-color: grey;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -22px;
+}
+
+.div53:hover .div54{
+    visibility: visible;
+}
+
+.Quick8{
+    color: #ffffffff;
+    text-align: center;
+}
+
+.Disney{
+    font-size: 17px;
+    padding-top: 314px;
+    text-align: center;
+}
+
+.div55{
+    height: 20px;
+    width: 20px;
+    margin-top: 19px;
+    margin-left: 105px;
+    background-image: url(euro-sing.png);
+    background-size: cover;
+}
+
+.one8{
+    font-size: 16px;
+    margin-top: -19px;
+    padding-left: 126px;
+}
+
+.div56{
+    height: 404px;
+    width: 100%;
+    margin-top: 42px;
+}
+
+.div57{
+    height: 404px;
+    width: 330px;
+    margin-left: 153px;
+}
+
+.div58{
+    height: 285px;
+    width: 286px;
+    margin-left: 22px;
+    border-radius: 360px;
+    margin-top: -42px;
+    background-image: url(wheels8.webp);
+    background-size: contain;
+    transition: width 1s, height 2s;
+}
+
+.div58:hover{
+    height: 295px;
+    width: 295px;
+    cursor: pointer;
+}
+
+.div59{
+    height: 56px;
+    width: 330px;
+    opacity: 0.8;
+    background-color: grey;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -22px;
+}
+
+.div58:hover .div59{
+    visibility: visible;
+}
+
+.Quick9{
+    color: #ffffffff;
+    text-align: center;
+}
+
+.Spider{
+    font-size: 17px;
+    padding-top: 314px;
+    text-align: center;
+}
+
+.div60{
+    height: 20px;
+    width: 20px;
+    margin-top: 19px;
+    margin-left: 105px;
+    background-image: url(euro-sing.png);
+    background-size: cover;
+}
+
+.one9{
+    font-size: 16px;
+    margin-top: -19px;
+    padding-left: 126px;
+}
+
+.div61{
+    height: 404px;
+    width: 330px;
+    margin-left: 588px;
+    margin-top: -421px;
+}
+
+.div62{
+    height: 285px;
+    width: 286px;
+    margin-left: 22px;
+    border-radius: 360px;
+    margin-top: -42px;
+    background-image: url(wheels9.webp);
+    background-size: contain;
+    transition: width 1s, height 2s;
+}
+
+.div62:hover{
+    height: 295px;
+    width: 295px;
+    cursor: pointer;
+}
+
+.div63{
+    height: 56px;
+    width: 330px;
+    opacity: 0.8;
+    background-color: grey;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -22px;
+}
+
+.div62:hover .div63{
+    visibility: visible;
+}
+
+.Quick10{
+   color: #ffffffff;
+   text-align: center; 
+}
+
+.Encanto{
+    font-size: 17px;
+    padding-top: 314px;
+    text-align: center;   
+}
+
+.div64{
+    height: 20px;
+    width: 20px;
+    margin-top: 19px;
+    margin-left: 105px;
+    background-image: url(euro-sing.png);
+    background-size: cover;
+}
+
+.one10{
+    font-size: 16px;
+    margin-top: -19px;
+    padding-left: 126px;
+}
+
+.div65{
+    height: 404px;
+    width: 330px;
+    margin-left: 1033px;
+    margin-top: -421px;
+}
+
+.div66{
+    height: 285px;
+    width: 286px;
+    margin-left: 22px;
+    border-radius: 360px;
+    margin-top: -42px;
+    background-image: url(wheels10.webp);
+    background-size: contain;
+    transition: width 1s, height 2s;
+}
+
+.div66:hover{
+    height: 295px;
+    width: 295px;
+    cursor: pointer;
+}
+
+.div67{
+    height: 56px;
+    width: 330px;
+    opacity: 0.8;
+    background-color: grey;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -22px;
+}
+
+.div66:hover .div67{
+    visibility: visible;
+}
+
+.Quick11{
+    color: #ffffffff;
+    text-align: center;
+}
+
+.Shideld{
+    font-size: 17px;
+    padding-top: 314px;
+    text-align: center;
+}
+
+.div68{
+    height: 20px;
+    width: 20px;
+    margin-top: 19px;
+    margin-left: 105px;
+    background-image: url(euro-sing.png);
+    background-size: cover;
+}
+
+.one11{
+    font-size: 16px;
+    margin-top: -19px;
+    padding-left: 126px;
+}
+
+.div69{
+    height: 220px;
+    width: 100%;
+    background-color: rgba(96, 34, 34, 0.756);    
+}
+
+.if{
+    color: #ffffffff;
+    padding-top: 81px;
+    margin-left: 191px;
+}
+
+.div70{
+    height: 40px;
+    width: 500px;
+    margin-top: -68px;
+    float: right;
+}
+
+.FOLLOW{
+    color: #ffffffff;
+    margin-top: 8px;
+    font-size: 24px;
+}
+
+.div71{
+    height: 43px;
+    width: 43px;
+    background-color: #ffffffff;
+    margin-left: 262px;
+    margin-top: -59px;
+    border-radius: 43px;
+    background-image: url(face.webp);
+    background-size: cover;
+}
+
+.div72{
+    height: 43px;
+    width: 43px;
+    background-color: #ffffffff;
+    margin-left: 330px;
+    margin-top: -43px;
+    border-radius: 43px;
+    background-image: url(ins.png);
+    background-size: cover;
+}
+
+.div73{
+    height: 36px;
+    width: 44px;
+    background-color: #ffffffff;
+    margin-left: 394px;
+    margin-top: -37px;
+    border-radius: 134px;
+    background-image: url(twwwwwww.jpeg);
+    background-size: cover;
+}
+
+.div74{
+    height: 966px;
+    width: 100%;
+    background-color: rgb(193 189 189 / 56%);
+    margin-top: -27px;
+}
+
+.div75{
+    height: 336px;
+    width: 255px;
+    margin-left: 143px;
+    padding-top: 119px;
+}
+
+.div76{
+    height: 54px;
+    width: 255px;
+    background-color: #977c7c;
+    border-radius: 5px;
+}
+
+.div76:hover{
+    background-color: #644646;
+    cursor: pointer;
+}
+
+.shop{
+    font-size: 27px;
+    color: #ffffffff;
+    text-align: center;
+    padding-top: 14px;
+}
+
+.div77{
+    height: 6px;
+    width: 255px;
+    background-color: #ffffffff;
+    margin-top: 34px;
+}
+
+.WHEEL{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    font-weight: 800;
+    color: #977c7c;
+}
+
+.WHEEL:hover{
+    cursor: pointer;
+}
+
+.GIFT1{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    font-weight: 800;
+    color: #977c7c;
+}
+
+.GIFT1:hover{
+    cursor: pointer;
+}
+
+
+
+.div78{
+    height: 336px;
+    width: 255px;
+    margin-left: 438px;
+    padding-top: 120px;
+    margin-top: -454px;
+}
+
+.div79{
+    height: 54px;
+    width: 255px;
+    background-color: #977c7c;
+    border-radius: 5px;    
+    margin-top: -4px;
+
+}
+
+.div79:hover{
+    background-color: #644646;
+    cursor: pointer;
+}
+
+.ABOUT{
+    font-size: 27px;
+    color: #ffffffff;
+    text-align: center;
+    padding-top: 14px;
+}
+
+.div80{
+    height: 6px;
+    width: 255px;
+    background-color: #ffffffff;
+    margin-top: 34px;
+}
+
+.OUR1{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    font-weight: 800;
+    color: #977c7c;
+}
+
+.OUR1:hover{
+    cursor: pointer;
+}
+
+.PUBLIC1{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    font-weight: 800;
+    color: #977c7c;
+}
+
+.PUBLIC1:hover{
+    cursor: pointer;
+}
+
+.div81{
+    height: 336px;
+    width: 255px;
+    margin-left: 731px;
+    padding-top: 119px;
+    margin-top: -454px;
+}
+
+.div82{
+    height: 54px;
+    width: 255px;
+    background-color: #977c7c;
+    border-radius: 5px;
+    margin-top: -4px;
+}
+
+.div82:hover{
+    background-color: #644646;
+    cursor: pointer;
+}
+
+
+.HELP90{
+    font-size: 27px;
+    color: #ffffffff;
+    text-align: center;
+    padding-top: 14px;  
+}
+
+.div83{
+    height: 6px;
+    width: 255px;
+    background-color: #ffffffff;
+    margin-top: 34px;
+}
+
+.CONTACT-US{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+    font-weight: 800;
+}
+
+.CONTACT-US:hover{
+    cursor: pointer;
+}
+
+.RETURNS100{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+    font-weight: 800;  
+}
+
+.RETURNS100:hover{
+    cursor: pointer;
+}
+
+.HELP565{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+    font-weight: 800;  
+}
+
+.HELP565:hover{
+    cursor: pointer;
+}
+
+.div84{
+    height: 336px;
+    width: 255px;
+    margin-left: 1026px;
+    padding-top: 119px;
+    margin-top: -454px;
+}
+
+.div85{
+    height: 54px;
+    width: 255px;
+    background-color: #977c7c;
+    border-radius: 5px;
+    margin-top: -4px;
+}
+
+.div85:hover{
+    background-color: #644646;
+    cursor: pointer;
+}
+
+.COMPANY2{
+    font-size: 27px;
+    color: #ffffffff;
+    text-align: center;
+    padding-top: 14px;
+}
+
+.div86{
+    height: 6px;
+    width: 255px;
+    background-color: #ffffffff;
+    margin-top: 34px;
+}
+
+.SUBSCRIBE90{
+    font-weight: 800;
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+}
+
+.SUBSCRIBE90:hover{
+    cursor: pointer;
+}
+
+.WORK5{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+    font-weight: 800;
+}
+
+.WORK5:hover{
+    cursor: pointer;
+}
+
+.PRESS8{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+    font-weight: 800; 
+}
+
+.PRESS8:hover{
+    cursor: pointer;
+}
+
+.div87{
+    height: 93px;
+    width: 34%;
+    margin-top: 117px;
+}
+
+.izze{
+    font-size: 50px;
+    position: relative;
+    animation: aniket 3s 1;
+    animation-direction: alternate;
+    margin-left: 149px;
+}
+
+.WHEELS00{
+    font-size: 49px;
+    margin-top: -97px;
+    margin-left: 268px;
+    color: #ffffffff;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 50px;
+    position: relative;
+    animation: aniket 3s 1;
+    animation-direction: alternate;
+}
+
+.div88{
+    height: 93px;
+    width: 47%;
+    margin-left: 774px;
+    margin-top: -95px;
+}
+
+.fname {
+    height: 48px;
+    width: 486px;
+    font-size: 20px;
+}
+
+.div89{
+    height: 59px;
+    width: 204px;
+    background-color: #523939;
+    margin-left: 492px;
+    margin-top: -80px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.fname:hover {
+    border: 3px solid red;
+    cursor: pointer;
+}
+
+.div89:hover{
+    background-color: #2f1b1b;
+    cursor: pointer;
+}
+
+.SUBSCRIBE900{
+    text-align: center;
+    padding-top: 15px;
+    color: #ffffffff;
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.div90{
+    height: 113px;
+    width: 163px;
+    margin-left: 643px;
+    margin-top: 100px;
+}
+
+.a2024{
+    text-align: center;
+    color: rgb(151, 150, 150);
+    font-family: 'Oswald';
+}

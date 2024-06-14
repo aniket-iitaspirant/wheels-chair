@@ -1,0 +1,1332 @@
+/* This is my first conterner css */
+ @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+.header{
+    height: 150px;
+    width: 100%;
+    background-color: #d7d7d7b8;
+    top: 0;
+    position: fixed;
+}
+
+.div1{
+    height: 150px;
+    width: 17%;
+    background-color: #80808000;
+    display: inline-block;
+}
+
+.div2{
+    height: 150px;
+    width: 83%;
+    float: right;
+    background-color: #80808000;;
+    display: inline-block;
+}
+
+.circle{
+    height: 128px;
+    width: 124px;
+    border-radius: 40px;
+    margin-left: 127px;
+    margin-top: 13px;
+    display: inline-block;
+    background-image: url(izzy-img.webp);
+}
+
+.home{
+    margin-top: 5px;
+    padding-left: 41px;
+    font-size: 23px;
+    display: inline-block;
+}
+
+.menucolor{
+    color: rgb(100 88 68 / 94%) !important;
+    cursor: pointer;
+}
+
+.menucolor:hover{
+    color:#d2be52 !important;
+    cursor: pointer;
+}
+
+.store{
+    margin-top: 6px;
+    padding-left: 10px;
+    font-size: 23px;
+    display: inline-block;
+    color: black;
+}
+
+.store:hover{
+    color: rgb(166 147 118);
+}
+
+.disney{
+    margin-top: 6px;
+    font-size: 23px; 
+    padding-left: 12px;
+    display: inline-block;
+    color: black;  
+}
+
+.disney:hover{
+    color: #d2be52;
+}
+
+.our_story{
+    margin-top: 5px;
+    padding-left: 10px;
+    display: inline-block;
+    font-size: 23px;   
+    color: black;
+}
+
+.div56{
+    height: 33px;
+    width: 100px;
+    margin-left: 195px;
+    margin-top: -21px;
+}
+
+.div57{
+    height: 33px;
+    width: 139px;
+    margin-left: 287px;
+    margin-top: -32px;
+}
+
+.div58{
+    height: 33px;
+    width: 139px;
+    margin-left: 432px;
+    margin-top: -34px;  
+}
+
+.our_story:hover{
+    color: #d2be52;
+}
+
+.COMMUNITY{
+    margin-top: 6px;
+    padding-left: 0px;
+    display: inline-block;
+    font-size: 23px;   
+    color: black;
+}
+
+.div59{
+    height: 33px;
+    width: 221px; 
+    margin-left: 547px;
+    margin-top: 14px;
+}
+
+.COMMUNITY:hover{
+    color: #d2be52;
+}
+
+.public{
+    margin-top: 6px;
+    padding-left: 10px;
+    display: inline-block;
+    font-size: 23px;   
+    color: black;
+}
+
+.public:hover{
+    color: #d2be52;
+}
+
+.UiHgGh{
+    margin-top: 37px;
+    line-height: 0px;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.card{
+    margin-top: 6px;
+    padding-left: 10px;
+    display: inline-block;
+    font-size: 23px;   
+    color: black;
+}
+
+.div60{
+    height: 33px;
+    width: 140px;
+    margin-left: 755px;
+    margin-top: -32px; 
+}
+
+.div64{
+    height: 33px;
+    width: 140px;
+    margin-left: -27px;
+    margin-top: 61px;
+}
+
+.help{
+    margin-top: 6px;
+    padding-left: 10px;
+    display: inline-block;
+    font-size: 23px;   
+    color: black;
+}
+
+.div61{
+    height: 33px;
+    width: 77px;
+    margin-left: 892px;
+    margin-top: -32px; 
+}
+
+.help:hover{
+    color: #d2be52;
+}
+
+.card:hover{
+    color: #d2be52;
+}
+
+.eur{
+    font-size: 18px;
+    margin-left: 8px;
+    color: rgb(175, 174, 174);
+    display: inline-block;
+}
+
+.div62{
+    height: 55px;
+    width: 109px;
+    margin-top: -52px;
+    margin-left: 1069px;
+}
+
+.div3{
+    height: 52px;
+    width: 102px;
+    background-color: #ffffffff;
+    border: px solid black;
+    display: inline-block;
+}
+
+.euro{
+    height: 10px;
+    width: 10px;
+    display: inline-block;
+    font-size: 33px;
+    color: gray;
+    margin-top: -63px;
+}
+
+.body{
+    height: 773px;
+    width: 100%;
+    margin-top: 150px;
+    background-color:#0000ffb3;
+    background-image: url(img-of-code.webp);
+    background-size: contain;
+    
+}
+
+
+.home-lite {
+    height: 52px;
+    width: 102px;
+    margin-left: 0px;
+}
+
+.div4{
+    height: 90px;
+    width: 90px;
+
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.div63{
+    height: 90px;
+    width: 90px; 
+    margin-top: -72px;
+    margin-left: 1164px;
+}
+
+.bag{
+    height: 55px;
+    width: 54px;
+    margin-top: 14px;
+    
+}
+
+.if{
+    font-size: 20px;
+    color: #ffffffff;
+    padding-top: 168px;
+    padding-left: 694px;
+    font-weight: bolder;
+}
+
+.div5{
+    height: 78px;
+    width: 217px;
+    margin-top: -88px;
+    margin-left: 163px;
+    background-image: url(izzy-img-wheels.webp);
+
+}
+/* My first cointer css is done */
+/* This is my second coninter css */
+
+.div6{
+    height: 408px;
+    width: 100%;
+    margin-top: 60px;
+}
+
+.div7{
+    height: 60px;
+    width: 380px;
+    margin-left: 562px;
+    cursor: pointer;
+    box-shadow: var(--shd,0 1px 4px rgba(0,0,0,.6));
+}
+
+.div7:hover{
+    background-color: rgb(85 58 56);
+    cursor: pointer;
+}
+
+.shop2:hover{
+    color: #ffffffff;
+    cursor: pointer;
+}
+
+.shop2{
+    font-size: 30px;
+    color: rgb(194, 191, 191);
+    text-align: center;
+    padding-top: 12px;
+}
+
+.circle1{
+    margin-left: 183px;
+    margin-top: 41px;
+    height: 272px;
+    width: 276px;
+    border-radius: 130px;
+    background-image: url(circle1.webp);
+}
+
+.circle2{
+    margin-left: 465px;
+    margin-top: -274px;
+    height: 272px;
+    width: 276px;
+    border-radius: 130px;
+    background-image: url(circle2.webp);
+}
+
+.circle3{
+    margin-left: 748px;
+    margin-top: -274px;
+    height: 272px;
+    width: 276px;
+    border-radius: 130px;
+    background-image: url(circle3.webp);
+}
+
+.circle4{
+    margin-left: 1030px;
+    margin-top: -274px;
+    height: 272px;
+    width: 276px;
+    border-radius: 130px;
+    background-image: url(circle4.webp);
+}
+/* My second code is done */
+/* Thise is my third code */
+
+.div8{
+    height: 700px;
+    width: 100%;
+    background-color: #d2be52;
+}
+
+.left{
+    height: 700px;
+    width: 36%;
+    background-color: red;
+    float: left;
+    background-image: url(girls.webp);
+}
+
+.meddle{
+    height: 700px;
+    width: 34%;
+    background-color: rgb(78, 76, 76);
+    margin-left: 480px;
+}
+
+.div10{
+    height: 56px;
+    width: 340px;
+    margin-left: 106px;
+    margin-top: 350px;
+    background-color: #896c6c;
+    box-shadow: var(--shd,0 1px 4px rgba(0,0,0,.6));
+}
+
+.div10:hover{
+    background-color: rgb(78, 76, 76);
+}
+
+.shop6{
+    font-size: 30px;
+    color: #ffffffff;
+    text-align: center;
+    padding-top: 12px;
+}
+
+.right1{
+    height: 700px;
+    width: 35%;
+    background-color: rgb(0, 42, 255);
+    float: right;
+    margin-right: 0px; 
+    margin-top: -700px;
+    background-image: url(girls1.webp);
+}
+
+.div9{
+    height: 67px;
+    width: 268px;
+    margin-top: 10px;
+    margin-left: 141px;
+    text-align: center;
+    background-image: url(disnep.webp);
+}
+
+.izzy{
+    font-size: 21px;
+    padding-top: 8px;
+    padding-left: 85px;
+    color: #ffffffff;
+}
+
+/* My third code is done */
+/* This is fourth code */
+
+.div11{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(78, 76, 76);
+    margin-top: 30px;
+}
+
+.we{
+    text-align: center;
+    color: #ffffffff;
+    padding-top: 32px;
+    font-size: 28px;
+}
+
+
+.div12{
+    height: 674px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.left10{
+    height: 674px;
+    width: 538px;
+    background-image: url(w-img.webp);
+}
+
+.cre{
+    font-size: 26px;
+    text-align: center;
+    padding-top: 89px;
+    margin-left: 20px;
+    color: #ffffffff;
+}
+
+.meddle1{
+    height: 674px;
+    width: 524px;
+    margin-left: 514px;
+    margin-top: -700px;
+    background-image: url(wh-img.webp);
+    background-size: cover;
+}
+
+.right100{
+    height: 674px;
+    width: 465px;
+    float: right;
+    margin-top: -674px;
+    background-image: url(small-girl.webp);
+    background-size: cover;
+}
+
+.AWARD-WINNING{
+    font-size: 26px;
+    text-align: center;
+    padding-top: 89px;
+    margin-left: 20px;
+    color: #ffffffff;
+}
+
+.trands{
+   font-size: 26px;
+   text-align: center;
+   padding-top: 71px;
+   margin-left: 20px;
+   color: #ffffffff; 
+}
+/* My fourth code is done */
+/* This is fifth code */
+
+.div13{
+    height: 674px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.left200{
+    height: 674px;
+    width: 514px;
+    background-image: url(therr.webp);
+    background-size: cover;
+}
+
+.meddle1000{
+    height: 674px;
+    width: 524px;
+    margin-left: 514px;
+    margin-top: -701px;
+}
+
+.we23{
+   font-size: 26px;
+   text-align: center;
+   padding-top: 30px;
+   margin-left: 20px;
+   color: #ffffffff;
+}
+
+.whowe{
+    padding-top: 101px;
+    text-align: center;
+    color: #644646;
+    font-size: 27px;
+}
+
+.div14{
+    height: 10px;
+    width: 82px;
+    background-color: #644646;
+    margin-top: 48px;
+    margin-left: 226px;
+    transform: rotate(138deg);
+}
+
+.txxy{
+    font-size: 19px;
+    color: gray;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.div15{
+    height: 52px;
+    width: 348px;
+    background-color:#815353;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.div15:hover{
+    background-color:  #644646;
+    cursor: pointer;
+    box-shadow: var(--shd,0 1px 4px rgba(0,0,0,.6));
+}
+
+.red{
+    color: #ffffffff;
+    padding-top:10px;
+    font-size: 28px;
+}
+
+.div16{
+    height: 674px;
+    width: 464px;
+    margin-top: -593px;
+    margin-left: 524px;
+    background-image: url(new.girl.webp);
+    background-size: cover;
+}
+
+/* my fifth code is done */
+/* This is sixth code  */
+
+.div17{
+    height: 600px;
+    width: 100%;
+    margin-top: 30px;
+    background-image: url(coloers.webp);
+    background-size: cover;
+}
+
+.div18{
+    height: 349px;
+    width: 750px;
+    background-color: blue;
+    margin-top: 30px;
+    margin-left: 400px;
+}
+
+.div19{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(78, 76, 76);
+    margin-top: 273px;
+}
+
+.one1{
+    text-align: center;
+    color: #ffffffff;
+    padding-top: 32px;
+    font-size: 28px;
+}
+
+.nne:hover{
+    cursor: pointer;
+}
+
+/* My sixth code is done  */
+/* This is my sevent code */
+
+.div20{
+    height: 568px;
+    width: 100%;
+    margin-top: 144px;
+    background-image: url(big-wheel.webp);
+    background-size: cover;
+}
+
+.d1i{
+    height: 50px;
+    width: 70px;
+    background-color: #8000;
+    margin-top: 20px;
+}
+
+.div21{
+    height: 53px;
+    width: 345px;
+    background-color: #815353;
+    margin-left: 584px;
+    margin-top: 134px;
+}
+
+.div21:hover{
+    cursor: pointer;
+}
+
+.our100{
+    text-align: center;
+    color: #ffffffff;
+    padding-top: 14px;
+    font-size: 28px;
+    padding-left: 83px;
+}
+
+.div22{
+    height: 53px;
+    width: 345px;
+    background-color: #815353;
+    margin-left: 584px;
+    margin-top: 34px;
+} 
+
+.div22:hover{
+    cursor: pointer;
+}
+
+.gift111{
+    text-align: center;
+    color: #ffffffff;
+    padding-top: 14px;
+    font-size: 28px; 
+    padding-left: 57px;
+}
+
+.div23{
+    height: 53px;
+    width: 345px;
+    background-color: #815353;
+    margin-left: 584px;
+    margin-top: 34px;
+} 
+
+.div23:hover{
+    cursor: pointer;
+}
+
+.join123{
+    text-align: center;
+    color: #ffffffff;
+    padding-top: 14px;
+    font-size: 28px; 
+    padding-left: 49px;
+}
+
+/* my sevent code is done */
+/* Thise is my eight code */
+
+
+.div24{
+    height: 652px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.div25{
+    height: 500px;
+    width: 354px;
+    background-color: rgb(220 219 219);
+}
+
+.vogue{
+    font-size: 57px;
+    text-align: center;
+    padding-top: 115px;
+}
+
+.smallo{
+    height: 10px;
+    width: 50px;
+    background-color: #ffffffff;
+    margin-left: 155px;
+    margin-top: 40px;
+}
+
+.byyy{
+    font-size: 20px;
+    color: rgb(136, 134, 134);
+    text-align: center;
+}
+
+.div26{
+    height: 500px;
+    width: 366px;
+    background-color: rgb(220 219 219);
+    margin-left: 363px;
+    margin-top: -538px;
+}
+
+.elle{
+    font-size: 57px;
+    text-align: center;
+    padding-top: 115px; 
+}
+
+.mallo{
+    height: 10px;
+    width: 50px;
+    background-color: #ffffffff;
+    margin-left: 160px;
+    margin-top: 40px;   
+}
+
+.sister{
+    font-size: 20px;
+    color: rgb(136, 134, 134);
+    text-align: center;
+}
+
+.div27{
+    height: 500px;
+    width: 392px;
+    background-color: rgb(220 219 219);
+    margin-left: 737px;
+    margin-top: -500px;
+}
+
+
+
+.good{
+    margin-top: 86px;
+    margin-left: 124px;
+}
+
+.div29{
+    height: 10px;
+    width: 50px;
+    background-color: #ffffffff;
+    margin-left: 175px;
+    margin-top: 5px;   
+}
+
+.f123{
+    font-size: 20px;
+    color: rgb(136, 134, 134);
+    text-align: center; 
+}
+
+.div30{
+        height: 500px;
+        width: 358px;
+        background-color: rgb(220 219 219);
+        margin-left: 1144px;
+        margin-top: -500px;
+}
+
+.div31{
+    height: 38px;
+    width: 311px;
+}
+
+.div32{
+    height: 38px;
+    width: 311px;
+    margin-top: 104px;
+    margin-left: 25px;
+    background-image: url(te.png);
+}
+
+.div33{
+    height: 10px;
+    width: 50px;
+    background-color: #ffffffff;
+    margin-left: 175px;
+    margin-top: 54px; 
+}
+
+.thE{
+    font-size: 20px;
+    color: rgb(136, 134, 134);
+    text-align: center; 
+}
+
+.v{
+    font-size: 22px;
+    margin-top: 53px;
+    margin-left: 170px;
+}
+
+.vv{
+    height: 37px;
+    width: 90px;
+    margin-left: 269px;
+    margin-top: -55px;
+    background-image: url(teen_vogue.webp);
+    background-size: cover;
+}
+
+
+.ee{
+    font-size: 22px;
+    margin-top: -33px;
+    margin-left: 381px;
+}
+
+.dd{
+    height: 37px;
+    width: 90px;
+    margin-left: 446px;
+    margin-top: -51px;
+    background-image: url(ppppppp.webp);
+    background-size: cover;
+}
+
+.ttt{
+    height: 37px;
+    width: 52px;
+    margin-left: 557px;
+    margin-top: -38px;
+    background-image: url(ttttttttttttttttt.webp);
+    background-size: cover;
+}
+
+.its{
+    font-size: 22px;
+    margin-top: -35px;
+    margin-left: 629px;   
+}
+
+.drak{
+    font-size: 22px;
+    margin-top: -48px;
+    margin-left: 767px;  
+}
+
+.ins{
+    font-size: 19px;
+    margin-top: -39px;
+    margin-left: 850px;
+}
+
+.thee{
+    font-size: 19px;
+    margin-top: -41px;
+    margin-left: 962px;
+}
+
+.rte{
+    height: 27px;
+    width: 50px;
+    background-color: white;
+    margin-top: -45px;
+    margin-left: 1113px;
+    background-image: url(rte.webp);
+}
+
+.bbc{
+    height: 23px;
+    width: 76px;
+    background-color: white;
+    margin-top: -28px;
+    margin-left: 1178px;
+    background-image: url(bbc.webp);
+}
+
+.div34{
+    height: 250px;
+    width: 100%;
+    background-color: #644646;
+    margin-top: 70px;
+}
+
+.youcant{
+   color: #ffffffff;
+    padding-top: 81px;
+    margin-left: 191px;
+}
+
+.fool{
+    color: #ffffffff;
+    margin-top: -59px;
+    margin-left: 995px;
+    font-size: 24px;
+}
+
+.div35{
+    height: 43px;
+    width: 43px;
+    background-color: #ffffffff;
+    margin-left: 1208px;
+    margin-top: -59px;
+    border-radius: 43px;
+    background-image: url(face.webp);
+    background-size: cover;
+}
+
+.div35:hover{
+    cursor: pointer;
+}
+
+.div36{
+    height: 43px;
+    width: 43px;
+    background-color: #ffffffff;
+    margin-left: 1267px;
+    margin-top: -43px;
+    border-radius: 43px;
+    background-image: url(ins.png);
+    background-size: cover;
+}
+
+.div36:hover{
+    cursor: pointer;
+}
+
+
+.div37 {
+    height: 36px;
+    width: 44px;
+    background-color: #ffffffff;
+    margin-left: 1320px;
+    margin-top: -37px;
+    border-radius: 134px;
+    background-image: url(twwwwwww.jpeg);
+    background-size: cover;
+}
+
+.div37:hover{
+    cursor: pointer;
+}
+
+.div38{
+    height: 966px;
+    width: 100%;
+    background-color:rgb(193 189 189 / 56%);
+    margin-top: -27px;
+}
+
+.div39{
+    height: 336px;
+    width: 255px;
+    margin-left: 143px;
+    padding-top: 119px;
+}
+
+.div40{
+    height: 54px;
+    width: 255px;
+    background-color: #977c7c;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.div40:hover{
+    background-color: #644646;
+    cursor: pointer;
+}
+
+.shop200{
+    font-size: 27px;
+    color: #ffffffff;
+    text-align: center;
+    padding-top: 14px;
+}
+
+.div41{
+    height: 6px;
+    width: 255px;
+    background-color: #ffffffff;
+    margin-top: 34px;
+}
+
+.HELP200:hover{
+    cursor: pointer;
+}
+
+.wheels1000{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+}
+
+.wheels1000:hover{
+    cursor: pointer;
+}
+
+.GIFT100{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+}
+
+.GIFT100:hover{
+    cursor: pointer;
+}
+
+.div42{
+    height: 336px;
+    width: 255px;
+    margin-left: 438px;
+    padding-top: 120px;
+    margin-top: -454px;
+}
+
+.div43{
+    height: 54px;
+    width: 255px;
+    background-color: #977c7c;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.div43:hover{
+    background-color: #644646;
+    cursor: pointer;
+}
+
+.about{
+    font-size: 27px;
+    color: #ffffffff;
+    text-align: center;
+    padding-top: 14px;
+}
+
+.div44{
+    height: 6px;
+    width: 255px;
+    background-color: #ffffffff;
+    margin-top: 34px;
+}
+
+.our111{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+}
+
+.our111:hover{
+    cursor: pointer;
+}
+
+.pub111{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+}
+
+.pub111:hover{
+    cursor: pointer;
+}
+
+.div45{
+    height: 336px;
+    width: 255px;
+    margin-left: 731px;
+    padding-top: 119px;
+    margin-top: -454px;   
+}
+
+.div46{
+    height: 54px;
+    width: 255px;
+    background-color: #977c7c;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.div46:hover{
+    background-color: #644646;
+    cursor: pointer;
+}
+
+.help5{
+    font-size: 27px;
+    color: #ffffffff;
+    text-align: center;
+    padding-top: 14px;  
+}
+
+.div47{
+    height: 6px;
+    width: 255px;
+    background-color: #ffffffff;
+    margin-top: 34px;  
+}
+
+.CONTACT101{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+}
+
+.CONTACT101:hover{
+    cursor: pointer;
+}
+
+.div83{
+    height: 33px;
+    width: 100px;
+    margin-left: 99px;
+    margin-top: -70px;
+}
+
+.RETURNS{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+}
+
+.RETURNS:hover{
+    cursor: pointer;
+}
+
+.HELP200{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+}
+
+.div48{
+    height: 336px;
+    width: 255px;
+    margin-left: 1026px;
+    padding-top: 119px;
+    margin-top: -454px;
+}
+
+.div49{
+    height: 54px;
+    width: 255px;
+    background-color: #977c7c;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.div49:hover{
+    background-color: #644646;
+    cursor: pointer;
+}
+
+
+.company3{
+    font-size: 27px;
+    color: #ffffffff;
+    text-align: center;
+    padding-top: 14px; 
+}
+
+.div50{
+    height: 6px;
+    width: 255px;
+    background-color: #ffffffff;
+    margin-top: 34px; 
+}
+
+.SUBSCRIBE11{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c;
+}
+
+.SUBSCRIBE11:hover{
+    cursor: pointer;
+}
+
+.WOR{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c; 
+}
+
+.WOR:hover{
+    cursor: pointer;
+}
+
+.PRESS{
+    font-size: 24px;
+    margin-top: 34px;
+    padding-left: 0px;
+    color: #977c7c; 
+}
+
+.PRESS:hover{
+    cursor: pointer;
+}
+
+#div51{
+    height: 93px;
+    width: 34%;
+    margin-top: 117px;
+}
+
+.izze{
+    margin-left: 149px;
+}
+
+.wheels2{
+    font-size: 49px;
+    margin-top: -97px;
+    margin-left: 268px;
+    color: #ffffffff;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 50px;
+    position: relative;
+    animation: aniket 3s 1;
+    animation-direction: alternate;      
+}
+
+
+@keyframes aniket {
+  0%   { left: 0px; top: 0px;}
+  28%  { left: 100px; top: 0px;}
+}
+
+.izze{
+	  font-size: 50px;
+      position: relative;
+      animation: aniket 3s 1;
+      animation-direction: alternate;
+}
+
+.div52{
+    height: 93px;
+    width: 47%;
+    margin-left: 774px;
+    margin-top: -95px;
+}
+
+
+.fname{
+    height: 48px;
+    width: 486px;
+    font-size: 20px;
+}
+
+.fname:hover{
+    border:3px solid red;
+}
+
+.div53{
+    height: 59px;
+    width: 204px;
+    background-color: #523939;
+    margin-left: 492px;
+    margin-top: -76px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.SUBSCRIBE12{
+    text-align: center;
+    padding-top: 15px;
+    color: #ffffffff;
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.div53:hover{
+    background-color: #2f1b1b;
+}
+
+.div54{
+    height: 113px;
+    width: 163px;
+    margin-left: 643px;
+    margin-top: 100px;
+}
+
+.twe{
+    text-align: center;
+    color: rgb(151, 150, 150);
+    font-family: 'Oswald';
+}
+
+.div53:hover{
+    cursor: pointer;
+}
